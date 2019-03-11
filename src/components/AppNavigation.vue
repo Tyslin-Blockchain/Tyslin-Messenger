@@ -16,7 +16,7 @@
           </v-btn>
 
           <!-- Chat -->
-          <v-btn to="/chats" flat>
+          <!-- <v-btn to="/chats" flat>
             <span>{{ $t('bottom.chats_button') }}</span>
             <v-badge overlap color="primary">
               <span v-if="numOfNewMessages > 0" slot="badge">
@@ -24,7 +24,7 @@
               </span>
               <v-icon>mdi-forum</v-icon>
             </v-badge>
-          </v-btn>
+          </v-btn> -->
 
           <!-- Settings -->
           <v-btn to="/options" flat>

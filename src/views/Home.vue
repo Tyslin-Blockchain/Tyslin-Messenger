@@ -115,35 +115,35 @@ export default {
           cryptoCurrency: 'TYS',
           cryptoName: 'TYSLIN',
           icon: 'tys-fill-icon'
-        },
-        {
-          address: this.$store.state.bnb.address,
-          balance: this.$store.state.bnb.balance,
-          cryptoCurrency: 'BNB',
-          cryptoName: 'Binance Coin',
-          icon: 'bnb-fill-icon'
-        },
-        {
-          address: this.$store.state.eth.address,
-          balance: this.$store.state.eth.balance,
-          cryptoCurrency: 'ETH',
-          cryptoName: 'Ethereum',
-          icon: 'eth-fill-icon'
-        },
-        {
-          address: this.$store.state.bz.address,
-          balance: this.$store.state.bz.balance,
-          cryptoCurrency: 'BZ',
-          cryptoName: 'Bit-Z',
-          icon: 'bnz-fill-icon'
-        },
-        {
-          address: this.$store.state.doge.address,
-          balance: this.$store.state.doge.balance,
-          cryptoCurrency: 'DOGE',
-          cryptoName: 'DOGE',
-          icon: 'doge-fill-icon'
         }
+        // ,{
+        //   address: this.$store.state.bnb.address,
+        //   balance: this.$store.state.bnb.balance,
+        //   cryptoCurrency: 'BNB',
+        //   cryptoName: 'Binance Coin',
+        //   icon: 'bnb-fill-icon'
+        // },
+        // {
+        //   address: this.$store.state.eth.address,
+        //   balance: this.$store.state.eth.balance,
+        //   cryptoCurrency: 'ETH',
+        //   cryptoName: 'Ethereum',
+        //   icon: 'eth-fill-icon'
+        // },
+        // {
+        //   address: this.$store.state.bz.address,
+        //   balance: this.$store.state.bz.balance,
+        //   cryptoCurrency: 'BZ',
+        //   cryptoName: 'Bit-Z',
+        //   icon: 'bnz-fill-icon'
+        // },
+        // {
+        //   address: this.$store.state.doge.address,
+        //   balance: this.$store.state.doge.balance,
+        //   cryptoCurrency: 'DOGE',
+        //   cryptoName: 'DOGE',
+        //   icon: 'doge-fill-icon'
+        // }
       ]
     }
   },

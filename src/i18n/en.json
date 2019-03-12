@@ -78,7 +78,7 @@
     "your_balance_tooltip_ETH": "This is your ETH tokens balance"
   },
   "login": {
-    "brand_title": "TYSLIN BlockChain Messenger",
+    "brand_title": "Private BlockChain Messenger",
     "copy_button_tooltip": "Click to copy the passphrase to clipboard. Save it in a password keeper application. To log in to your new Wallet, enter it in the passphrase field",
     "create_address_label": "Or create a new anonymous address:",
     "device_unsupported": "Your device is not supported",

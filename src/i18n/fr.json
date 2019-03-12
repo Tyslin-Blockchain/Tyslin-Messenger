@@ -72,7 +72,7 @@
     "your_balance_tooltip_ETH": "It is your TYSLIN ETH balance."
   },
   "login": {
-    "brand_title": "TYSLIN BlockChain Messenger",
+    "brand_title": "Private BlockChain Messenger",
     "copy_button_tooltip": "Cliquez pour copier le mot de passe dans le presse papier. Enregistrer dans une application mot de passe deuxième. Pour entrer votre nouveau portefeuille, collez-le champ de mot de passe.",
     "create_address_label": "Ou créer une nouvelle adresse anonyme:",
     "device_unsupported": "Votre appareil n'est pas compatible",
